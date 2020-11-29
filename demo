@@ -1,0 +1,12 @@
+Aerial vehicle networks are multi-hop ad hoc networks in which nodes are UAVs. To refer tothese networks the term AANET [4] is normally used.
+There are two main types of UAVs depending on the vehicle architecture: i) fixed-wing and ii) rotary-wing
+Fixed wing UAV  are airplane like vehicles .These vehicles are characterrized for performing conventional takeoff and landing operations like passenger planes.
+on the contrary,rotary wings UAVS are able to perform vertical takeoff and landing .
+Due to their flying properties,AANETS have the advantage of avoiding most of the obstacles that other terrestrial robots  might find on the ground.
+Aquatic vehicle networks (AQNETs) are multi-hop networks that are formed by aquatic nodes.
+Differently from the AANETs, aquatic networks are mainly composed of two clearly differentgroups of vehicles, the Unmanned Underwater Vehicles (UUVs) and the Unmanned Surface vehicles.
+Although these vehicles are in condition to operate as standalone, they can cooperate in a work team, in which the tasks are analogous to the hierarchy mentioned in theprevious section.
+Regarding the wireless technology used to exchange information, RF (radio frequency)communication is not an option for underwater environments due to the electromagnetic absorption of the aqueous medium.
+However, underwater acoustic channels suffer from large propagation delay, limited available bandwidth, and high error probability.
+The acoustic signal propagation speed in underwater environments is five orders of magnitude lower than the radio propagation speed ( 3 x 108 m/s vs. 1.5 x 103 m/s), and most acoustic systems operate below 30 kHz.
+The frequency band is very narrow, with a maximum reported of 1 MHz at the range of 60 m.
