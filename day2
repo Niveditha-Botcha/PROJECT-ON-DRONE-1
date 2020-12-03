@@ -1,0 +1,13 @@
+In this new era of smart grid, the technology of unmanned aerial Vehicle (UAV) for power line inspectionis drawing increasing attentions from power industry.
+Along with the advancement of unmanned aerial vehicle technology, the cost of UAV has become affordable for civil and industrial applications.
+Aquatic vehicle networks (AQNETs) are multi-hop networks that are formed by aquatic nodes.Differently from the AANETs, aquatic networks are mainly composed of two clearly different groups of vehicles, the Unmanned Underwater Vehicles (UUVs) and the Unmanned SurfaceVehicles (USVs).
+Regarding the wireless technology used to exchange information, RF (radio frequency)communication is not an option for underwater environments due to the electromagnetic absorption of the aqueous medium.
+ However, underwater acoustic channels suffer from large propagation delay, limited available bandwidth, and high error probability.
+ Another alternative to acoustic communications in underwater environments is shown .Considering that no single underwater communication system is currently capable of achieving good performance in all the communication 
+ Considering that an UUV needs in some degree a remote command center, which most probably is not underwater, a conversion of the communications technologies between the two mediums (water and air) is required.
+ Wireless communication technologies are the cornerstone of UAAV networks.These technologies enable the cooperation between aerial and/or aquatic robots.
+ The most common wireless technologies used for UAV-UAV communication links are IEEE 02.11 standards, IEEE 802.115.4 communications and infrared technologies, among others.
+ The main issue for the use of IEEE 802.15.4 standard in an AANET is its low data rate. This comunication technology is intended for WSNs that are normally focused on saving energy onsumption.
+ Also, this technology’s transmission range is generally in the order of tens of eters up to 100 meters, which can be considered a limitation for applications that need the AVs performing tasks separated by higher distances. 
+ sci-hub.se/10.1016/j.comcom.2018.02.002
+A survey on unmanned aerial and aquatic vehicle multi-hop networks: Wireless communications, evaluation tools and applications
